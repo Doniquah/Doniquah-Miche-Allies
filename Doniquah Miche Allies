@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Miss Doniquah Miche Allies</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+        body {
+            font-family: 'Dancing Script', cursive;
+            margin: 0;
+            padding: 0;
+            background-color: #E0F7FA;
+            color: #333;
+            position: relative;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        header {
+            background: #B3E5FC;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #0288D1 3px solid;
+            text-align: center;
+            position: relative;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .bio, .social, .contact {
+            background: #fff;
+            padding: 20px;
+            margin: 20px 0;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 10px;
+            position: relative;
+        }
+        .profile-picture {
+            text-align: center;
+        }
+        .profile-picture img {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+        }
+        .social a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #0288D1;
+            font-size: 1.2em;
+        }
+        .butterfly {
+            position: absolute;
+            width: 50px;
+            height: 50px;
+        }
+        .butterfly1 {
+            top: 10px;
+            left: 10px;
+        }
+        .butterfly2 {
+            top: 50px;
+            right: 20px;
+        }
+        .butterfly3 {
+            bottom: 20px;
+            left: 30px;
+        }
+        .butterfly4 {
+            bottom: 40px;
+            right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Miss Doniquah Miche Allies</h1>
+        </div>
+        <img src="https://i.imgur.com/LOi2dRf.png" class="butterfly butterfly1" alt="Butterfly">
+        <img src="https://i.imgur.com/LOi2dRf.png" class="butterfly butterfly2" alt="Butterfly">
+    </header>
+    <div class="container">
+        <section class="profile-picture">
+            <img src="https://drive.google.com/uc?id=1Gn5Vu3yRe0MQyvEpWuTu2T_MSd1vB8OO" alt="Profile Picture">
+        </section>
+        <section class="bio">
+            <h2>About Me</h2>
+            <p>To know me is to know the God who saved my life. Jesus, the king of my heart. To know my success is to know the God who stands behind me, goes before me and hems me into his garment. He has time and time again shown the world how he has singlehandedly blessed me in the midst of chaos and hardships.</p>
+            <p>PS: I'm just a girl who enjoys coffee, romance novels and stand up poetry.</p>
+        </section>
+        <section class="social">
+            <h2>Connect with Me</h2>
+            <p>
+                <a href="https://www.linkedin.com/in/miss-doniquah-miche-allies" target="_blank">LinkedIn</a>
+                <a href="https://www.instagram.com/doniquah?igshid=NDVnYXJuZ2FueG42" target="_blank">Instagram</a>
+                <a href="https://www.facebook.com/doniquahmiche.allies.5?mibextid=ZbWKwL" target="_blank">Facebook</a>
+            </p>
+        </section>
+    </div>
+    <img src="https://i.imgur.com/LOi2dRf.png" class="butterfly butterfly3" alt="Butterfly">
+    <img src="https://i.imgur.com/LOi2dRf.png" class="butterfly butterfly4" alt="Butterfly">
+</body>
+</html>
